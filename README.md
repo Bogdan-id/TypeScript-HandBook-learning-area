@@ -8,7 +8,7 @@
 tsc [file-name].ts
 ```
 
-## run compiled [file-name].js
+## run compiled js file
 ```
 node [file-name].js
 ```
